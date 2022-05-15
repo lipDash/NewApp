@@ -1,1 +1,4 @@
-print(Lesson4)
+awdwadwad
+awdawd
+awdwdwa4444
+print(Lesson4edit)
